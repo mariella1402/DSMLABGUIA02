@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application01-lab02</string>
+    <string name="resultado">Resultado: </string>
+    <string name="numb1">Digitar dato 1: </string>
+    <string name="numb2">Digitar dato 2: </string>
+    <string name="enviar">Enviar</string>
+</resources>
